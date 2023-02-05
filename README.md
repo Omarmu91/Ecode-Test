@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ecode</title>
+  </head>
+  <body>
+    <header>
+      <h1>Coming Soon -Ecode-</h1>
+    </header>
+    <main>
+      <p>Thank you for visiting our website. We are currently working hard to bring you a brand new experience. Please check back soon for updates.</p>
+      <p>In the meantime, connect with us on social media for the latest news and updates:</p>
+      <ul>
+        <li><a href="https://www.facebook.com/samra911?mibextid=LQQJ4d">Facebook</a></li>
+        <li><a href="https://instagram.com/o.samra11?igshid=YmMyMTA2M2Y=">Instagram</a></li>
+      </ul>
+    </main>
+    <footer>
+      <p>Copyright &copy; 2023 Our Website</p>
+    </footer>
+  </body>
+</html>
